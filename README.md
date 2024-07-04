@@ -1,0 +1,2 @@
+# find_string_xref
+使用capstone编写的寻找elf文件字符串交叉引用的简单脚本
