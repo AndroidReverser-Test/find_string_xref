@@ -1,2 +1,2 @@
 # find_string_xref
-使用capstone编写的寻找elf文件字符串交叉引用的简单脚本
+使用capstone编写的寻找elf文件字符串交叉引用的简单脚本，要求输入的elf文件能识别.rodata节和.text节，只考虑了adrp指令和add指令连续的情况下对字符串的引用
